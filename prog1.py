@@ -4,3 +4,4 @@ def git_practice():
         print('good boy')
     else:
         print('herovo')
+    print('Git is fun')
